@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="https_upload_wikimedia_org_wikipedia_commons_e_ed_016vallesmarineris_r_educed0_5_jpg">https://upload.wikimedia.org/wikipedia/commons/e/ed/016vallesmarineris_r educed0.5.jpg</string>
+    <string name="download_file">Download File</string>
+    <string name="todo">TODO</string>
+</resources>
