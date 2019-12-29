@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="todo">TODO</string>
+    <string name="saliha_y_lmaz">Saliha Yılmaz</string>
+    <string name="new_post">New Post</string>
+    <string name="message">Message</string>
+    <string name="textview">TextView</string>
+    <string name="location">Location</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
