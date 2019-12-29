@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="application">Application</string>
+    <string name="my_first_app">My First App</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="my_first_android">My First Android</string>
+</resources>
