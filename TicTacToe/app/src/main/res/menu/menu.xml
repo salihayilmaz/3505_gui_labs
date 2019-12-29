@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:onClick="newGame"
+        android:title="@string/new_game"
+        app:showAsAction="ifRoom" />
+    <item
+        android:onClick="saveGame"
+        android:title="@string/save"
+        app:showAsAction="always" />
+    <item
+        android:onClick="loadGame"
+        android:title="@string/load"
+        app:showAsAction="always" />
+
+</menu>
